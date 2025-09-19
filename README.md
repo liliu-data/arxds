@@ -28,7 +28,7 @@ We welcome issues, discussions, and pull requests. Please follow these steps for
 ### Dev setup
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/arxds.git
+git clone https://github.com/charaf19/arxds.git
 cd arxds
 python -m venv .venv && source .venv/bin/activate
 pip install --upgrade pip
